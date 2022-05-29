@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\bin\Debug\Grafic.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\bin\Debug\Grafic.exe
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\bin\Debug\Grafic.pdb
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.exe
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.pdb
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.GraficAlgebraica.resources
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.GraficConica.resources
+c:\users\user\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.GraficTrigono.resources
+C:\Users\USER\documents\visual studio 2013\Projects\Grafic\Grafic\bin\Debug\info.lundin.math.dll
+C:\Users\USER\documents\visual studio 2013\Projects\Grafic\Grafic\bin\Debug\info.lundin.math.pdb
+C:\Users\USER\documents\visual studio 2013\Projects\Grafic\Grafic\obj\Debug\Grafic.Ayuda.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Quinto semestre\Graficacion\Grafic\Grafic\bin\Debug\Grafic.exe.config
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Quinto semestre\Graficacion\Grafic\Grafic\obj\Debug\Grafic.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Quinto semestre\Graficacion\Grafic\Grafic\obj\Debug\Grafic.pdb
